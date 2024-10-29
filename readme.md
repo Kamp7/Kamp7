@@ -57,6 +57,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamp7&theme=chartreuse_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kamp7&theme=chartreuse_dark)
+
+[![An image of @kamp7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kamp7)](https://holopin.io/@kamp7)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kamp7&theme=chartreuse_dark&utcOffset=8)
 ### 🤝🏻 &nbsp;Connect with Me
 
