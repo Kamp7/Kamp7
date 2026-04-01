@@ -1,71 +1,109 @@
+<div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=2000&pause=300&color=48070F&background=FFDB26&center=true&vCenter=true&multiline=true&random=false&width=700&height=140&lines=Hello+People;I+am+Kamleshwar+Pandey" alt="Typing SVG" /></a>
-<img  src="borderseperator.gif">
+# ✨ Hi There! I'm Kamp7 ✨
+### 🌸 Welcome to my cute corner of the web! 🌸
 
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=28&duration=2000&pause=300&color=FF69B4&background=FFF5F9&center=true&vCenter=true&width=500&lines=Web+Developer+🎀;Creative+Coder+✨;Tech+Enthusiast+💖" alt="Typing SVG" />
 
+---
 
+</div>
 
-### 👨🏻‍💻 &nbsp;About Me :
+## 💭 About Me
 
-💡 &nbsp; I like to explore new technologies and develop web apps and sites.
+```
+🎀 I'm a passionate web developer who loves creating beautiful & interactive web experiences
+✨ Exploring new technologies with a sprinkle of creativity
+💖 Turning ideas into reality, one line of code at a time
+🌸 Coffee enthusiast & pixel perfectionist
+```
 
+---
 
+## 🎨 My Tech Treasures
 
+<div align="center">
 
-### ⚒️ Projects :
-* []()
+### Languages & Frameworks 💖
+![JavaScript](https://img.shields.io/badge/JavaScript-FFE135?style=for-the-badge&logo=javascript&logoColor=323330)
+![HTML5](https://img.shields.io/badge/HTML5-FF6B6B?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-FF69B4?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFD700?style=for-the-badge&logo=java&logoColor=FF8C00)
 
-
-### 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-hotpink.svg?style=flat&logo=Bootstrap&logoColor=white)&nbsp;
-![JAVA](https://img.shields.io/badge/java-%23000000.svg?style=flat&logo=java&logoColor=white)&nbsp;
-
-
-
+### Tools I Love 🛠️
 <details>
-<summary>More Skills</summary>
+<summary>Click to see more tools ✨</summary>
 
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FFC0CB?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-DDA0DD?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FFE4E1?style=for-the-badge&logo=github&logoColor=FF1493)
 
 </details>
 
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<div align="center">
-<a href="https://github.com/Kamp7">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kamp7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kamp7&hide_border=true&cache_seconds=1800&layout=compact&langs_count=8&theme=tokyonight"/> 
-  <br/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamp7&theme=buefy-dark&hide_border=true&background=1a1b27"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Kamp7&margin-w=10&no-frame=true&row=1&theme=darkhub"/>
-  </a>
 </div>
 
-[![An image of @kamp7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kamp7)](https://holopin.io/@kamp7)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamp7&theme=chartreuse_dark)
+---
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kamp7&theme=chartreuse_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamp7&theme=chartreuse_dark)
+## 📊 My GitHub Journey ✨
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kamp7&theme=chartreuse_dark)
+<div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kamp7&theme=chartreuse_dark&utcOffset=8)
-### 🤝🏻 &nbsp;Connect with Me
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kamp7&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide_border=true&bg_color=fff5f9&title_color=ff69b4&icon_color=ff69b4" height="180em" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kamp7&hide_border=true&layout=compact&langs_count=8&theme=buefy&bg_color=fff5f9&title_color=ff69b4" height="180em" />
 
-<p align="">
-<a href="https://www.linkedin.com//"><img src="https://img.shields.io/badge/-harshit1142?style=flat&logo=linkedin&logoColor=white"/></a>
-</p>
+<br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamp7&theme=buefy&hide_border=true&background=fff5f9" height="180em" />
 
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=Kamp7&margin-w=10&no-frame=true&row=1&theme=buefy" />
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+| Project | Description |
+|---------|-------------|
+| 🎀 | Coming Soon! |
+| ✨ | Your amazing work here! |
+
+</div>
+
+---
+
+## 🏆 Achievements & Badges
+
+<div align="center">
+
+[![An image of @kamp7's Holopin badges](https://holopin.me/kamp7)](https://holopin.io/@kamp7)
+
+</div>
+
+---
+
+## 📫 Let's Connect! 💕
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFB6D9?style=for-the-badge&logo=linkedin&logoColor=FF1493)](https://www.linkedin.com/)
+[![Twitter](https://img.shields.io/badge/Twitter-FFE4E1?style=for-the-badge&logo=twitter&logoColor=FF69B4)](https://twitter.com/)
+[![Email](https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=FF1493)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌸 Made with 💖 and a lot of ☕
+
+*Thank you for visiting! Have an amazing day!* ✨
+
+</div>
